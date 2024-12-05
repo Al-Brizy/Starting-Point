@@ -2,3 +2,6 @@ List nama-nama pokemon
 - Bulbasaur
 - Ivysaur
 - Venusaur
+- Squirtle
+- Wartortle
+- Blastoise
